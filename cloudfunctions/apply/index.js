@@ -13,7 +13,7 @@ cloud.init({
     // 1.release - 正式
     // 2.test    - 测试
     // env: 'test'
-    env: 'release'
+  env: 'test-0dvnb'
 });
 
 // 初始化数据库连接

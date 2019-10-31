@@ -8,7 +8,7 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"appid": "your appid",
+	"appid": "wx348a503d55bf41d2",
 	"projectname": "wechat-solita",
 	"libVersion": "2.7.0",
 	"simulatorType": "wechat",
